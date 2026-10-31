@@ -1,0 +1,182 @@
+[
+  {
+    "question": "What dataset was used for crop disease detection?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The FloraBench dataset contains leaf disease images."
+    ]
+  },
+  {
+    "question": "How large was the crop dataset?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The training corpus contained 18000 annotated leaf photographs."
+    ]
+  },
+  {
+    "question": "What was the crop classifier accuracy?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The image classifier achieved 93 percent accuracy."
+    ]
+  },
+  {
+    "question": "Which model is used for crop classification?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The proposed classifier uses a compact vision transformer."
+    ]
+  },
+  {
+    "question": "What optimization method trained the crop model?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "Training used the AdamW optimization method."
+    ]
+  },
+  {
+    "question": "What data augmentation was used in crop research?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "Random rotations and horizontal flips provided augmentation."
+    ]
+  },
+  {
+    "question": "How was the crop dataset divided?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The crop dataset used a 70 15 15 training validation test split."
+    ]
+  },
+  {
+    "question": "What was the crop study limitation?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "The crop study was limited by geographic sampling bias."
+    ]
+  },
+  {
+    "question": "How long did crop model training take?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "Model training took twelve hours on the local workstation."
+    ]
+  },
+  {
+    "question": "What is the future work for crop research?",
+    "doc_ids": [
+      "fixture_1"
+    ],
+    "gold_snippets": [
+      "Future work will include field testing in different seasons."
+    ]
+  },
+  {
+    "question": "What data was used for river flood forecasting?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "RiverCast consists of 240 river gauge time series."
+    ]
+  },
+  {
+    "question": "What was the flood prediction horizon?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The forecasting model predicts flood risk 48 hours ahead."
+    ]
+  },
+  {
+    "question": "Which method was used for flood forecasting?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The forecasting approach combines LSTM with rainfall measurements."
+    ]
+  },
+  {
+    "question": "What is the flood warning recall?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The flood warning system achieved 88 percent recall."
+    ]
+  },
+  {
+    "question": "What measurement was used as an input to flood forecasting?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "Rainfall and river water level were included as inputs."
+    ]
+  },
+  {
+    "question": "How were flood prediction results validated?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The researchers evaluated predictions using a temporal holdout."
+    ]
+  },
+  {
+    "question": "What flood warning baseline was compared?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "A persistence baseline was used for comparison."
+    ]
+  },
+  {
+    "question": "What was the flood forecast limitation?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The forecast was less reliable for ungauged rivers."
+    ]
+  },
+  {
+    "question": "What was the flood data collection period?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The flood dataset covered measurements from 2012 to 2021."
+    ]
+  },
+  {
+    "question": "What did flood future work propose?",
+    "doc_ids": [
+      "fixture_2"
+    ],
+    "gold_snippets": [
+      "The authors propose adding satellite precipitation data."
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "k": 5,
+  "questions": 20,
+  "results": [
+    {
+      "mode": "semantic",
+      "precision_at_k": 0.13,
+      "recall_at_k": 0.575,
+      "hit_at_k": 0.6
+    },
+    {
+      "mode": "bm25",
+      "precision_at_k": 0.16000000000000003,
+      "recall_at_k": 0.75,
+      "hit_at_k": 0.75
+    },
+    {
+      "mode": "hybrid",
+      "precision_at_k": 0.16000000000000003,
+      "recall_at_k": 0.725,
+      "hit_at_k": 0.75
+    },
+    {
+      "mode": "hybrid_rerank",
+      "precision_at_k": 0.19000000000000006,
+      "recall_at_k": 0.9,
+      "hit_at_k": 0.9
+    }
+  ]
+}
