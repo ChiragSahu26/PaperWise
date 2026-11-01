@@ -8,3 +8,12 @@ __pycache__/
 .DS_Store
 node_modules/
 dist/
+
+.venv/
+.DS_Store
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+data/
